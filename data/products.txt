@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "timestamp": "04/07/2022 10:48:41 PM",
+    "name": "Mesa",
+    "description": "Hermosa mesa ratona",
+    "code": "XC57",
+    "img": "http://www.mesa.com",
+    "precio": 54000
+  },
+  {
+    "id": "11",
+    "timestamp": "04/07/2022 10:53:21 PM",
+    "name": "silla",
+    "description": "Hermosa silla",
+    "code": "XC57",
+    "img": "http://www.silla.com"
+  },
+  {
+    "id": "111",
+    "timestamp": "04/07/2022 10:53:48 PM",
+    "name": "sillon",
+    "description": "Hermoso sillon",
+    "code": "XC58",
+    "img": "http://www.sillon.com"
+  }
+]
